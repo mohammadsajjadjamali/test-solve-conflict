@@ -1,2 +1,9 @@
-alert("hello");
-console.log("mehr")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
+alert("hello")
